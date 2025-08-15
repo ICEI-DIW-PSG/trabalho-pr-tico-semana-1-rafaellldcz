@@ -9,11 +9,11 @@ Matricula: 900548
 
 ## Tela de inspeção com navegador
 
-![alt text](image.png)
+(image.png)
 
 ## Tela de projeto no Replit
 
-![alt text](image-1.png)
+(image-1.png)
 
 
 ## Orientações sobre Linguagem MarkDown
